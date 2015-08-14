@@ -1,0 +1,7 @@
+{
+  "name":        "js-style",
+  "version":     "0.1.0",
+  "description": "A collection of default settings for JavaScript style checkers and linters",
+  "license":     "Public Domain",
+  "private":     true
+}

@@ -1,0 +1,5 @@
+{
+  "extends": "./jshintrc-base.json",
+
+  "browser": true
+}
