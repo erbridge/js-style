@@ -10,7 +10,8 @@
     "allExcept": [
       "jshint",
       "globals",
-      "exported"
+      "exported",
+      "yo"
     ]
   },
   "requireCapitalizedConstructors":      true,
