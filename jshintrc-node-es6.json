@@ -1,5 +1,7 @@
 {
   "extends": "./jshintrc-node.json",
 
+  "strict": true,
+
   "esnext": true
 }
