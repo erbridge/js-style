@@ -6,7 +6,7 @@
 ## Install
 
 ```
-$ npm install -save-dev erbridge/js-style
+$ npm install --save-dev erbridge/js-style
 ```
 
 
