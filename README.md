@@ -18,7 +18,7 @@ Create a `.jshintrc` file in the project root containing, for example:
 
 ```json
 {
-  "extends": "node_modules/js-style/jshint-node"
+  "extends": "node_modules/js-style/jshint-node.json"
 }
 ```
 
@@ -29,6 +29,6 @@ Create a `.jscsrc` file in the project root containing, for example:
 
 ```json
 {
-  "preset": "node_modules/js-style/jscsrc-es5.json"
+  "preset": "node_modules/js-style/jscsrc.json"
 }
 ```
